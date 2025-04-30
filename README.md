@@ -8,47 +8,49 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 - **[TaskFlow](https://github.com/Bomfimdev/TaskFlow)**: Uma ferramenta para gerenciamento de tarefas, com foco em produtividade. Feito com Java.
 - **[Barber-app](https://github.com/Bomfimdev/Barber-app)**: Um app para barbearias, com funcionalidades de agendamento. Feito com TypeScript.
 
+🌐 **Meu site pessoal**: [Bomfimdev.com](https://bomfimdev.com/)
+
 ### Habilidades:
 #### Linguagens e Frameworks:
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring) 
-![Quarkus](https://img.shields.io/badge/-Quarkus-333333?style=flat&logo=quarkus) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs) 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
 
 #### Bancos de Dados:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50"/>
 
 #### Ferramentas Complementares:
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) 
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket) 
-![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven) 
-![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle) 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) 
-![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube) 
-![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5) 
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress) 
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions) 
-![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus) 
-![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana) 
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws) 
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure) 
-![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
 
 #### Metodologias e Práticas:
 ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance) 
@@ -58,3 +60,6 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 
 ### Gabriel's GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bomfimdev&show_icons=true&theme=radical)
+
+### Saca só:
+Gosto de programar, ouvir música e explorar novas tecnologias! Sempre em busca de aprendizado e desafios.
