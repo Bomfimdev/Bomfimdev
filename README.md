@@ -50,3 +50,4 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 
 ### Eu sei, eu sei, poderia ser melhor. Vou melhorar prometo!:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bomfimdev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bomfimdev&layout=compact&theme=radical)
