@@ -3,8 +3,6 @@
 Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e React. Apaixonado por criar soluções modernas e funcionais para problemas reais!
 
 ### Principais Projetos:
-- **[Portfolio](https://github.com/Bomfimdev/Portfolio)**: Meu portfólio pessoal, onde mostro meus projetos e habilidades. Feito com HTML e CSS.
-- **[Projeto-front-barbearia](https://github.com/Bomfimdev/Projeto-front-barbearia)**: Um site para barbearias, com design moderno e responsivo. Feito com CSS.
 - **[TaskFlow](https://github.com/Bomfimdev/TaskFlow)**: Uma ferramenta para gerenciamento de tarefas, com foco em produtividade. Feito com Java.
 - **[Barber-app](https://github.com/Bomfimdev/Barber-app)**: Um app para barbearias, com funcionalidades de agendamento. Feito com TypeScript.
 
