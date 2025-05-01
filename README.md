@@ -40,7 +40,6 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></span>
 
 #### Metodologias e Práticas:
