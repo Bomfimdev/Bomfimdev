@@ -19,17 +19,15 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/></span>
+<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/></span>
 
 #### Bancos de Dados:
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50"/></span>
 
 #### Ferramentas Complementares:
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></span>
@@ -37,20 +35,15 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="50"/></span>
+<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/></span>
-<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/></span>
+<span style="display: inline-block; margin-right: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></span>
 
 #### Metodologias e Práticas:
 <span style="display: inline-block; margin-right: 10px;"><img src="https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance" height="30"/></span>
@@ -60,4 +53,3 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 
 ### Gabriel's GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bomfimdev&show_icons=true&theme=radical)
-
