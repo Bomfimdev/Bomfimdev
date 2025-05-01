@@ -51,5 +51,5 @@ Sou um desenvolvedor Full Stack com foco em Java, Spring Boot, JavaScript e Reac
 <span style="display: inline-block; margin-right: 10px;"><img src="https://img.shields.io/badge/-TDD-333333?style=flat" height="30"/></span>
 <span style="display: inline-block; margin-right: 10px;"><img src="https://img.shields.io/badge/-Clean%20Code-333333?style=flat" height="30"/></span>
 
-### Gabriel's GitHub Stats:
+### Eu sei, eu sei, poderia ser melhor. Vou melhorar prometo!:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bomfimdev&show_icons=true&theme=radical)
