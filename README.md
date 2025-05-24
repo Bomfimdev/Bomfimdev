@@ -5,6 +5,7 @@ Sou um desenvolvedor Full Stack Pleno com 4 anos de experiência, tenho foco em 
 ### Principais Projetos:
 - **[TaskFlow](https://github.com/Bomfimdev/TaskFlow)**: Uma ferramenta para gerenciamento de tarefas, com foco em produtividade. Feito com Java.
 - **[Barber-app](https://github.com/Bomfimdev/Barber-app)**: Um app para barbearias, com funcionalidades de agendamento. Feito com TypeScript.
+- **[EvoStore](https://github.com/Bomfimdev/Evostore)**: Um Ecomerce destinado a vendas, com entrega automática e gerenciamento de keys, feito em JavaScript e Java.
 
 🌐 **Meu site pessoal**: [Bomfimdev.com](https://bomfimdev.com/)
 
