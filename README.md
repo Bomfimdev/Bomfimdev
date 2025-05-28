@@ -1,6 +1,9 @@
 ## Olá, eu sou o Gabriel! 👋
 
-Sou um desenvolvedor Full Stack Pleno com 4 anos de experiência, tenho foco em Java, Spring Boot, JavaScript e React. Apaixonado por criar soluções modernas e funcionais para problemas reais!
+Desenvolvedor Full Stack com 4 anos de experiência profissional. Atuação em projetos escaláveis, automação de processos e integração de APIs em times ágeis.
+Frontend: JavaScript, TypeScript, React, Next.js (especialização), AngularJS.
+Backend: Java, Spring Boot (especialização), Quarkus, Node.js, Prisma (especialização).
+Forte em boas práticas, testes automatizados e arquitetura de software.
 
 ### Principais Projetos:
 - **[TaskFlow](https://github.com/Bomfimdev/TaskFlow)**: Uma ferramenta para gerenciamento de tarefas, com foco em produtividade. Feito com Java.
