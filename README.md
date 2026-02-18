@@ -2,9 +2,9 @@
 
 Desenvolvedor Full Stack com 4 anos de experiência profissional. Atuação em projetos escaláveis, automação de processos e integração de APIs em times ágeis.
 
-Frontend: JavaScript, TypeScript, React, Next.js (especialização), AngularJS.
+Frontend: JavaScript, TypeScript, React, Next.js, AngularJS  (especialização).
 
-Backend: Java, Spring Boot (especialização), Quarkus, Node.js, Prisma (especialização).
+Backend: Java, Spring Boot (especialização), Quarkus, Node.js, Prisma.
 
 Forte em boas práticas, testes automatizados e arquitetura de software.
 
